@@ -28,12 +28,21 @@ This repository contains beginner-friendly pandas assignments to build strong da
 - Use groupby and aggregate functions
 - Create pivot tables
 - Apply conditional logic
+  
+📈 Plotting Practice 1: 
+Sales vs Profit Comparison
+📄 File: plotting1_bar_chart.ipynb
+📌 Learn how to:
+Create bar charts with pandas
+Compare sales and profit visually
+Add titles, labels, and grids
 
 🛠 Technologies Used
-- Python
-- Pandas
-- Jupyter Notebook
-
+  Python
+  Pandas
+  Jupyter Notebook
+  Matplotlib
+  Seaborn
 
 
 🙋‍♀️ Author
